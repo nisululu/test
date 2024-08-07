@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Lionel Messi",
+    "age": 36,
+    "position": "Forward",
+    "description": "Argentinian forward known for his dribbling, playmaking, and goal-scoring abilities. He has won multiple Ballon d'Or awards.",
+    "club": "Inter Miami CF",
+    "country": "Argentina",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "2",
+    "name": "Cristiano Ronaldo",
+    "age": 39,
+    "position": "Forward",
+    "description": "Portuguese forward renowned for his athleticism and versatility. He is one of the top goal-scorers in football history.",
+    "club": "Al Nassr",
+    "country": "Portugal",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Neymar Jr.",
+    "age": 32,
+    "position": "Forward",
+    "description": "Brazilian forward known for his flair and creativity on the ball. He is a key player for both club and country.",
+    "club": "Al Hilal",
+    "country": "Brazil",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "4",
+    "name": "Kylian Mbappe",
+    "age": 25,
+    "position": "Forward",
+    "description": "French forward recognized for his speed and technical skill. He is a World Cup winner with France.",
+    "club": "Paris Saint-Germain",
+    "country": "France",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "5",
+    "name": "Kevin De Bruyne",
+    "age": 33,
+    "position": "Midfielder",
+    "description": "Belgian midfielder known for his passing and vision. He is a crucial playmaker for Manchester City.",
+    "club": "Manchester City",
+    "country": "Belgium",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "Mohamed Salah",
+    "age": 32,
+    "position": "Forward",
+    "description": "Egyptian forward known for his pace and goal-scoring ability. He is a key player for Liverpool.",
+    "club": "Liverpool",
+    "country": "Egypt",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "7",
+    "name": "Robert Lewandowski",
+    "age": 35,
+    "position": "Striker",
+    "description": "Polish striker known for his finishing and positioning. He is one of the most consistent goal-scorers in Europe.",
+    "club": "Barcelona",
+    "country": "Poland",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "8",
+    "name": "Virgil van Dijk",
+    "age": 33,
+    "position": "Defender",
+    "description": "Dutch defender known for his leadership and aerial ability. He is a key figure in Liverpool's defense.",
+    "club": "Liverpool",
+    "country": "Netherlands",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "9",
+    "name": "Sadio Mane",
+    "age": 32,
+    "position": "Forward",
+    "description": "Senegalese forward known for his speed and work rate. He has been crucial for both Liverpool and Bayern Munich.",
+    "club": "Al Nassr",
+    "country": "Senegal",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "10",
+    "name": "Luka Modric",
+    "age": 38,
+    "position": "Midfielder",
+    "description": "Croatian midfielder known for his passing and control. He won the Ballon d'Or in 2018.",
+    "club": "Real Madrid",
+    "country": "Croatia",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "11",
+    "name": "Erling Haaland",
+    "age": 24,
+    "position": "Striker",
+    "description": "Norwegian striker known for his physicality and goal-scoring prowess. He is a key player for Manchester City.",
+    "club": "Manchester City",
+    "country": "Norway",
+    "photo": "image.jpeg"
+  },
+  {
+    "id": "12",
+    "name": "Karim Benzema",
+    "age": 36,
+    "position": "Forward",
+    "description": "French forward known for his technical skills and goal-scoring. He has been a key player for Real Madrid.",
+    "club": "Al-Ittihad",
+    "country": "France",
+    "photo": "image.jpeg"
+  }
+]

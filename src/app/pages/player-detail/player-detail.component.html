@@ -1,0 +1,23 @@
+<main>
+  <section class="min-vh-100">
+    <div class="container">
+      <div class="players-detail mt-5 d-flex gap-5 flex-column flex-md-row">
+        <img
+          class="rounded img-fluid"
+          src="{{ filteredData[0].photo }}"
+          width="350"
+          alt=""
+        />
+        <div class="detail-section">
+          <h1>{{ filteredData[0].name }}</h1>
+          <p class="description">{{ filteredData[0].description }}</p>
+          <p><strong>Age:</strong> {{ filteredData[0].age }}</p>
+          <p><strong>Country:</strong> {{ filteredData[0].country }}</p>
+          <p><strong>Club:</strong> {{ filteredData[0].club }}</p>
+          <p><strong>Position:</strong> {{ filteredData[0].position }}</p>
+          <p><strong>Description:</strong> {{ filteredData[0].description }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>

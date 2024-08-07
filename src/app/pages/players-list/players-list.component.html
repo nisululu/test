@@ -1,0 +1,31 @@
+<main>
+  <section>
+    <div class="container my-5">
+      <h2 class="mt-5 mb-4">List of top players in 2024</h2>
+      <div class="row row-gap-sm-4">
+        <div class="col-md-4 mb-5 mb-sm-0" *ngFor="let player of players">
+          <div class="card">
+            <div class="card-body">
+              <div class="img-container">
+                <img
+                  src="{{ player.photo }}"
+                  alt="{{ player.name }}"
+                  class="rounded"
+                />
+              </div>
+              <h5 class="player-title card-title">{{ player.name }}</h5>
+              <p class="player-description card-text">
+                {{ player.description }}
+              </p>
+              <a
+                class="btn btn-dark"
+                routerLink="/player-detail/{{ player.id }}"
+                >View more</a
+              >
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>

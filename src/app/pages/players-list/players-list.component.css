@@ -1,0 +1,27 @@
+.player-description {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.player-title {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.img-container {
+  height: 200px;
+  overflow: hidden;
+  margin-bottom: 15px;
+}
+
+.img-container img {
+  object-fit: contain;
+  width: 100%;
+  background-position: top;
+}
